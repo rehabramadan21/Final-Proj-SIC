@@ -1,0 +1,13 @@
+[
+  {
+    "user_id": "1",
+    "username": "rehab",
+    "email": "rehab@example.com",
+    "password": "1234",
+    "bookings": ["1"],
+    "my_events": ["1"],
+    "notifications": [
+      { "message": "تم تغيير موعد AI Tech Summit إلى 11 أكتوبر", "seen": false }
+    ]
+  }
+]

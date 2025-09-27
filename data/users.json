@@ -1,0 +1,19 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123",
+    "is_admin": true,
+    "bookings": []
+  },
+  "x": {
+    "username": "x",
+    "password": "x",
+    "is_admin": false,
+    "bookings": [
+      {
+        "event_id": "ev1",
+        "seat": 12
+      }
+    ]
+  }
+}
