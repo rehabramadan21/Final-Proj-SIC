@@ -1,0 +1,98 @@
+{
+  "tech": [
+    {
+      "event_id": "1",
+      "name": "AI Tech Summit",
+      "price": 50,
+      "date": "2025-10-10",
+      "location": "Cairo, Egypt",
+      "capacity": 100,
+      "booked": 45,
+      "speakers": ["1", "2"],
+      "ownerId": "1",
+      "tags": ["AI", "Machine Learning"],
+      "image": "C:\\Users\\Mohamed Ramadan\\Pictures\\Capture.PNG",
+      "rating": 4.2,
+      "reviews": [
+        { "userId": "2", "stars": 5, "comment": "Very useful event" }
+      ],
+      "comments": [
+        { "userId": "3", "content": "Will there be online streaming?", "timestamp": "2025-09-27T12:00:00" }
+      ]
+    },
+    {
+      "event_id": "2",
+      "name": "Cloud Expo",
+      "price": 70,
+      "date": "2025-11-05",
+      "location": "Dubai, UAE",
+      "capacity": 200,
+      "booked": 200,
+      "speakers": ["3", "4"],
+      "ownerId": "2",
+      "tags": ["Cloud", "DevOps"],
+      "image": "images/cloud_expo.png",
+      "rating": 4.7,
+      "reviews": [
+        { "userId": "1", "stars": 4, "comment": "Great networking opportunity" }
+      ],
+      "comments": [
+        { "userId": "2", "content": "Will slides be shared later?", "timestamp": "2025-09-26T14:30:00" }
+      ]
+    }
+  ],
+  "art": [
+    {
+      "event_id": "1",
+      "name": "Digital Art Expo",
+      "price": 40,
+      "date": "2025-10-12",
+      "location": "Paris, France",
+      "capacity": 80,
+      "booked": 50,
+      "speakers": ["11"],
+      "ownerId": "7",
+      "tags": ["Art", "Digital"],
+      "image": "images/art_expo.png",
+      "rating": 4.5,
+      "reviews": [],
+      "comments": []
+    }
+  ],
+  "sports": [
+    {
+      "event_id": "1",
+      "name": "Marathon 2025",
+      "price": 60,
+      "date": "2025-11-20",
+      "location": "New York, USA",
+      "capacity": 500,
+      "booked": 450,
+      "speakers": [],
+      "ownerId": "8",
+      "tags": ["Sports", "Running"],
+      "image": "images/marathon.png",
+      "rating": 4.8,
+      "reviews": [],
+      "comments": []
+    }
+  ],
+  "social": [
+    {
+      "event_id": "1",
+      "name": "Charity Gala",
+      "price": 80,
+      "date": "2025-12-05",
+      "location": "London, UK",
+      "capacity": 150,
+      "booked": 120,
+      "speakers": ["12"],
+      "ownerId": "9",
+      "tags": ["Social", "Charity"],
+      "image": "images/charity_gala.png",
+      "rating": 4.6,
+      "reviews": [],
+      "comments": []
+    }
+  ]
+}

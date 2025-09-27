@@ -1,0 +1,21 @@
+[
+  {
+    "speaker_id": "1",
+    "name": "Ahmed Abouzeid",
+    "bio": "Tech YouTuber specialized in reviews and tutorials.",
+    "links": {
+      "youtube": "https://youtube.com/ahmedabouzeid",
+      "linkedin": "https://linkedin.com/in/ahmedabouzeid"
+    },
+    "rating": 4.5
+  },
+  {
+    "speaker_id": "2",
+    "name": "Sara Ali",
+    "bio": "AI researcher and lecturer at Cairo University.",
+    "links": {
+      "linkedin": "https://linkedin.com/in/saraali"
+    },
+    "rating": 4.8
+  }
+]

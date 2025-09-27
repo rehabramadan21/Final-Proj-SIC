@@ -1,0 +1,49 @@
+{
+  "ev1": {
+    "id": "ev1",
+    "title": "Tech Talks: AI & Cloud",
+    "date": "2025-09-30 03:00",
+    "location": "Cairo Hub",
+    "capacity": 12,
+    "seats": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "speakers": [
+      {
+        "id": "sp1",
+        "name": "Ahmed AboZaid",
+        "bio": "AI Researcher",
+        "links": {
+          "youtube": "https://youtube.com"
+        },
+        "ratings": []
+      },
+      {
+        "id": "sp2",
+        "name": "Mona Ali",
+        "bio": "Cloud Engineer",
+        "links": {
+          "linkedin": "https://linkedin.com"
+        },
+        "ratings": []
+      }
+    ],
+    "bookings": [
+      {
+        "user": "x",
+        "seat": 12
+      }
+    ]
+  }
+}
